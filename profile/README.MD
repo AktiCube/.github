@@ -5,4 +5,4 @@ Today we are 10 people working on this project.
 # 🔗 Some useful links
 - [Website](https://www.akticube.fr)
 - [Pterodactyl Themes and Addons](https://pterodactylmarket.com/team/7446491)
-- [Pterodactyl Themes and Addons Discord](https://discord.gg/we3WzvFM5C)
+- [Custom Pterodactyl Themes & Addons + Bukkit/BungeeCord plugins Discord](https://discord.gg/we3WzvFM5C)

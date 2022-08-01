@@ -6,3 +6,7 @@ Today we are 10 people working on this project.
 - [Website](https://www.akticube.fr)
 - [Pterodactyl Themes and Addons](https://pterodactylmarket.com/team/7446491)
 - [Custom Pterodactyl Themes & Addons + Bukkit/BungeeCord plugins + Forge/Fabric mods Discord](https://discord.gg/we3WzvFM5C)
+
+# 🤝 Partners
+
+[![ouiheberg.com](https://raw.githubusercontent.com/AktiCube/containers/main/Pterodactyl/GraalVM-OH/ohlogo.png)](https://www.ouiheberg.com/panel/aff.php?aff=242)
